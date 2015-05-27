@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 7c310aefabb28bf45bcf7f0947559fa2
+timeCreated: 1428967618
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: elbow
+    100004: hand
+    100006: index
+    100008: index_end
+    100010: index_mid
+    100012: index_tip
+    100014: middle
+    100016: middle_end
+    100018: middle_mid
+    100020: middle_tip
+    100022: pinky
+    100024: pinky_end
+    100026: pinky_mid
+    100028: pinky_tip
+    100030: ring
+    100032: ring_end
+    100034: ring_mid
+    100036: ring_tip
+    100038: root
+    100040: thumb
+    100042: thumb_end
+    100044: thumb_mid
+    100046: thumb_tip
+    100048: wrist
+    400000: //RootNode
+    400002: elbow
+    400004: hand
+    400006: index
+    400008: index_end
+    400010: index_mid
+    400012: index_tip
+    400014: middle
+    400016: middle_end
+    400018: middle_mid
+    400020: middle_tip
+    400022: pinky
+    400024: pinky_end
+    400026: pinky_mid
+    400028: pinky_tip
+    400030: ring
+    400032: ring_end
+    400034: ring_mid
+    400036: ring_tip
+    400038: root
+    400040: thumb
+    400042: thumb_end
+    400044: thumb_mid
+    400046: thumb_tip
+    400048: wrist
+    7400000: hit
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: hit
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/elbow
+        weight: 1
+      - path: root/elbow/wrist
+        weight: 1
+      - path: root/elbow/wrist/hand
+        weight: 1
+      - path: root/elbow/wrist/hand/index
+        weight: 1
+      - path: root/elbow/wrist/hand/index/index_mid
+        weight: 1
+      - path: root/elbow/wrist/hand/index/index_mid/index_tip
+        weight: 1
+      - path: root/elbow/wrist/hand/index/index_mid/index_tip/index_end
+        weight: 1
+      - path: root/elbow/wrist/hand/middle
+        weight: 1
+      - path: root/elbow/wrist/hand/middle/middle_mid
+        weight: 1
+      - path: root/elbow/wrist/hand/middle/middle_mid/middle_end
+        weight: 1
+      - path: root/elbow/wrist/hand/middle/middle_mid/middle_end/middle_tip
+        weight: 1
+      - path: root/elbow/wrist/hand/pinky
+        weight: 1
+      - path: root/elbow/wrist/hand/pinky/pinky_mid
+        weight: 1
+      - path: root/elbow/wrist/hand/pinky/pinky_mid/pinky_tip
+        weight: 1
+      - path: root/elbow/wrist/hand/pinky/pinky_mid/pinky_tip/pinky_end
+        weight: 1
+      - path: root/elbow/wrist/hand/ring
+        weight: 1
+      - path: root/elbow/wrist/hand/ring/ring_mid
+        weight: 1
+      - path: root/elbow/wrist/hand/ring/ring_mid/ring_tip
+        weight: 1
+      - path: root/elbow/wrist/hand/ring/ring_mid/ring_tip/ring_end
+        weight: 1
+      - path: root/elbow/wrist/hand/thumb
+        weight: 1
+      - path: root/elbow/wrist/hand/thumb/thumb_mid
+        weight: 1
+      - path: root/elbow/wrist/hand/thumb/thumb_mid/thumb_tip
+        weight: 1
+      - path: root/elbow/wrist/hand/thumb/thumb_mid/thumb_tip/thumb_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: babe3cc5b6ce95046b9191514d10c316,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

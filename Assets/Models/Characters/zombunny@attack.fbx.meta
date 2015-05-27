@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: fe544c5e539af2e48b711e61a22a980b
+timeCreated: 1427927671
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Head
+    100002: HeadEnd
+    100004: Hips
+    100006: LeftEar
+    100008: LeftEarEnd
+    100010: LeftFoot
+    100012: LeftFootEnd
+    100014: LeftLeg
+    100016: LeftLowerArm
+    100018: LeftLowerArmFK
+    100020: LeftLowerArmIK
+    100022: LeftUpperArm
+    100024: LeftUpperArmFK
+    100026: LeftUpperArmIK
+    100028: LeftWrist
+    100030: LeftWristEnd
+    100032: LeftWristFK
+    100034: LeftWristIK
+    100036: RightEar
+    100038: RightEarEnd
+    100040: RightFoot
+    100042: RightFootEnd
+    100044: RightLeg
+    100046: RightLowerArm
+    100048: RightLowerArmFK
+    100050: RightLowerArmIK
+    100052: RightUpperArm
+    100054: RightUpperArmFK
+    100056: RightUpperArmIK
+    100058: RightWrist
+    100060: RightWristEnd
+    100062: RightWristFK
+    100064: RightWristIK
+    100066: Root
+    100068: Spine
+    100070: //RootNode
+    400000: Head
+    400002: HeadEnd
+    400004: Hips
+    400006: LeftEar
+    400008: LeftEarEnd
+    400010: LeftFoot
+    400012: LeftFootEnd
+    400014: LeftLeg
+    400016: LeftLowerArm
+    400018: LeftLowerArmFK
+    400020: LeftLowerArmIK
+    400022: LeftUpperArm
+    400024: LeftUpperArmFK
+    400026: LeftUpperArmIK
+    400028: LeftWrist
+    400030: LeftWristEnd
+    400032: LeftWristFK
+    400034: LeftWristIK
+    400036: RightEar
+    400038: RightEarEnd
+    400040: RightFoot
+    400042: RightFootEnd
+    400044: RightLeg
+    400046: RightLowerArm
+    400048: RightLowerArmFK
+    400050: RightLowerArmIK
+    400052: RightUpperArm
+    400054: RightUpperArmFK
+    400056: RightUpperArmIK
+    400058: RightWrist
+    400060: RightWristEnd
+    400062: RightWristFK
+    400064: RightWristIK
+    400066: Root
+    400068: Spine
+    400070: //RootNode
+    7400000: attack
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .454285711
+        functionName: CauseDamage
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Hips
+        weight: 1
+      - path: Root/Hips/LeftLeg
+        weight: 1
+      - path: Root/Hips/LeftLeg/LeftFoot
+        weight: 1
+      - path: Root/Hips/LeftLeg/LeftFoot/LeftFootEnd
+        weight: 1
+      - path: Root/Hips/RightLeg
+        weight: 1
+      - path: Root/Hips/RightLeg/RightFoot
+        weight: 1
+      - path: Root/Hips/RightLeg/RightFoot/RightFootEnd
+        weight: 1
+      - path: Root/Hips/Spine
+        weight: 1
+      - path: Root/Hips/Spine/Head
+        weight: 1
+      - path: Root/Hips/Spine/Head/HeadEnd
+        weight: 1
+      - path: Root/Hips/Spine/Head/LeftEar
+        weight: 1
+      - path: Root/Hips/Spine/Head/LeftEar/LeftEarEnd
+        weight: 1
+      - path: Root/Hips/Spine/Head/RightEar
+        weight: 1
+      - path: Root/Hips/Spine/Head/RightEar/RightEarEnd
+        weight: 1
+      - path: Root/Hips/Spine/LeftUpperArm
+        weight: 1
+      - path: Root/Hips/Spine/LeftUpperArm/LeftLowerArm
+        weight: 1
+      - path: Root/Hips/Spine/LeftUpperArm/LeftLowerArm/LeftWrist
+        weight: 1
+      - path: Root/Hips/Spine/LeftUpperArm/LeftLowerArm/LeftWrist/LeftWristEnd
+        weight: 1
+      - path: Root/Hips/Spine/LeftUpperArmFK
+        weight: 1
+      - path: Root/Hips/Spine/LeftUpperArmFK/LeftLowerArmFK
+        weight: 1
+      - path: Root/Hips/Spine/LeftUpperArmFK/LeftLowerArmFK/LeftWristFK
+        weight: 1
+      - path: Root/Hips/Spine/LeftUpperArmIK
+        weight: 1
+      - path: Root/Hips/Spine/LeftUpperArmIK/LeftLowerArmIK
+        weight: 1
+      - path: Root/Hips/Spine/LeftUpperArmIK/LeftLowerArmIK/LeftWristIK
+        weight: 1
+      - path: Root/Hips/Spine/RightUpperArm
+        weight: 1
+      - path: Root/Hips/Spine/RightUpperArm/RightLowerArm
+        weight: 1
+      - path: Root/Hips/Spine/RightUpperArm/RightLowerArm/RightWrist
+        weight: 1
+      - path: Root/Hips/Spine/RightUpperArm/RightLowerArm/RightWrist/RightWristEnd
+        weight: 1
+      - path: Root/Hips/Spine/RightUpperArmFK
+        weight: 1
+      - path: Root/Hips/Spine/RightUpperArmFK/RightLowerArmFK
+        weight: 1
+      - path: Root/Hips/Spine/RightUpperArmFK/RightLowerArmFK/RightWristFK
+        weight: 1
+      - path: Root/Hips/Spine/RightUpperArmIK
+        weight: 1
+      - path: Root/Hips/Spine/RightUpperArmIK/RightLowerArmIK
+        weight: 1
+      - path: Root/Hips/Spine/RightUpperArmIK/RightLowerArmIK/RightWristIK
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: f04e1655ba804e0458f0878b6e69f41b,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

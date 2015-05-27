@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: e256973dc7796a14fb3836821078e258
+timeCreated: 1427925733
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Head
+    100002: HeadEnd
+    100004: Hips
+    100006: LeftEar
+    100008: LeftEarEnd
+    100010: LeftFoot
+    100012: LeftFootEnd
+    100014: LeftLeg
+    100016: LeftLowerArm
+    100018: LeftLowerArmFK
+    100020: LeftLowerArmIK
+    100022: LeftUpperArm
+    100024: LeftUpperArmFK
+    100026: LeftUpperArmIK
+    100028: LeftWrist
+    100030: LeftWristEnd
+    100032: LeftWristFK
+    100034: LeftWristIK
+    100036: RightEar
+    100038: RightEarEnd
+    100040: RightFoot
+    100042: RightFootEnd
+    100044: RightLeg
+    100046: RightLowerArm
+    100048: RightLowerArmFK
+    100050: RightLowerArmIK
+    100052: RightUpperArm
+    100054: RightUpperArmFK
+    100056: RightUpperArmIK
+    100058: RightWrist
+    100060: RightWristEnd
+    100062: RightWristFK
+    100064: RightWristIK
+    100066: Root
+    100068: Spine
+    100070: Zombear_Cotton_Head
+    100072: //RootNode
+    400000: Head
+    400002: HeadEnd
+    400004: Hips
+    400006: LeftEar
+    400008: LeftEarEnd
+    400010: LeftFoot
+    400012: LeftFootEnd
+    400014: LeftLeg
+    400016: LeftLowerArm
+    400018: LeftLowerArmFK
+    400020: LeftLowerArmIK
+    400022: LeftUpperArm
+    400024: LeftUpperArmFK
+    400026: LeftUpperArmIK
+    400028: LeftWrist
+    400030: LeftWristEnd
+    400032: LeftWristFK
+    400034: LeftWristIK
+    400036: RightEar
+    400038: RightEarEnd
+    400040: RightFoot
+    400042: RightFootEnd
+    400044: RightLeg
+    400046: RightLowerArm
+    400048: RightLowerArmFK
+    400050: RightLowerArmIK
+    400052: RightUpperArm
+    400054: RightUpperArmFK
+    400056: RightUpperArmIK
+    400058: RightWrist
+    400060: RightWristEnd
+    400062: RightWristFK
+    400064: RightWristIK
+    400066: Root
+    400068: Spine
+    400070: Zombear_Cotton_Head
+    400072: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Zombear_Cotton_Head
+    4300002: Zombear_NoHead_NoArms
+    9500000: //RootNode
+    13700000: Zombear_Cotton_Head
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Root
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

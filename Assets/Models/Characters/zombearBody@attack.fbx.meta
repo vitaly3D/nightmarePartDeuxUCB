@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: ab2018572da45f34e960d9eb53c73b49
+timeCreated: 1428430448
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Head
+    100002: HeadEnd
+    100004: Hips
+    100006: LeftEar
+    100008: LeftEarEnd
+    100010: LeftFoot
+    100012: LeftFootEnd
+    100014: LeftLeg
+    100016: RightEar
+    100018: RightEarEnd
+    100020: RightFoot
+    100022: RightFootEnd
+    100024: RightLeg
+    100026: Root
+    100028: Spine
+    100030: //RootNode
+    400000: Head
+    400002: HeadEnd
+    400004: Hips
+    400006: LeftEar
+    400008: LeftEarEnd
+    400010: LeftFoot
+    400012: LeftFootEnd
+    400014: LeftLeg
+    400016: RightEar
+    400018: RightEarEnd
+    400020: RightFoot
+    400022: RightFootEnd
+    400024: RightLeg
+    400026: Root
+    400028: Spine
+    400030: //RootNode
+    7400000: attack
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .317610085
+        functionName: CauseDamage
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Hips
+        weight: 1
+      - path: Root/Hips/LeftLeg
+        weight: 1
+      - path: Root/Hips/LeftLeg/LeftFoot
+        weight: 1
+      - path: Root/Hips/LeftLeg/LeftFoot/LeftFootEnd
+        weight: 1
+      - path: Root/Hips/RightLeg
+        weight: 1
+      - path: Root/Hips/RightLeg/RightFoot
+        weight: 1
+      - path: Root/Hips/RightLeg/RightFoot/RightFootEnd
+        weight: 1
+      - path: Root/Hips/Spine
+        weight: 1
+      - path: Root/Hips/Spine/Head
+        weight: 1
+      - path: Root/Hips/Spine/Head/HeadEnd
+        weight: 1
+      - path: Root/Hips/Spine/Head/LeftEar
+        weight: 1
+      - path: Root/Hips/Spine/Head/LeftEar/LeftEarEnd
+        weight: 1
+      - path: Root/Hips/Spine/Head/RightEar
+        weight: 1
+      - path: Root/Hips/Spine/Head/RightEar/RightEarEnd
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 27d2d21de5ad01d428fe91166afc8763,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

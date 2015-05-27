@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bc28e8f7dbbe7494a8d67b6f5f3636bc
+timeCreated: 1429556569
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bodyAnimator: {instanceID: 0}
+  - armLAnimator: {instanceID: 0}
+  - armRAnimator: {instanceID: 0}
+  - starParticle: {fileID: 107510, guid: b0dca2bdea1a8454ba4875c9c6d342eb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: boy_ArmMask
+  m_Mask: 00000000000000000000000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: char_boy
+    m_Weight: 0
+  - m_Path: char_boy_Root
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_HipSway
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_HipSway/char_boy_LeftLeg
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_HipSway/char_boy_LeftLeg/char_boy_LeftToe
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_HipSway/char_boy_RightLeg
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_HipSway/char_boy_RightLeg/char_boy_RightToe
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_Hat_1
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_Hat_1/char_boy_Hat_2
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_Hat_1/char_boy_Hat_2/char_boy_Hat_3
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_Hat_1/char_boy_Hat_2/char_boy_Hat_3/char_boy_Hat_4
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_Hat_1/char_boy_Hat_2/char_boy_Hat_3/char_boy_Hat_4/char_boy_Hat_5
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_Hat_1/char_boy_Hat_2/char_boy_Hat_3/char_boy_Hat_4/char_boy_Hat_5/char_boy_Hat_End
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_LeftBrow_1
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_LeftBrow_1/char_boy_LeftBrow_1_End
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_LeftBrow_2
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_LeftBrow_2/char_boy_LeftBrow_2_End
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_LeftBrow_3
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_LeftBrow_3/char_boy_LeftBrow_3_End
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_RightBrow_1
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_RightBrow_1/char_boy_RightBrow_1_End
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_RightBrow_2
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_RightBrow_2/char_boy_RightBrow_2_End
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_RightBrow_3
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_RightBrow_3/char_boy_RightBrow_3_End
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm/char_boy_LeftLowerArm
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm/char_boy_LeftLowerArm/char_boy_LeftLowerArm_2
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm/char_boy_LeftLowerArm/char_boy_LeftLowerArm_2/char_boy_LeftWrist
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm/char_boy_LeftLowerArm/char_boy_LeftLowerArm_2/char_boy_LeftWrist/char_boy_LeftHand_1
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm/char_boy_LeftLowerArm/char_boy_LeftLowerArm_2/char_boy_LeftWrist/char_boy_LeftHand_1/char_boy_LeftHand_2
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm/char_boy_LeftLowerArm/char_boy_LeftLowerArm_2/char_boy_LeftWrist/char_boy_LeftThumb_1
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm/char_boy_LeftLowerArm/char_boy_LeftLowerArm_2/char_boy_LeftWrist/char_boy_LeftThumb_1/char_boy_LeftThumb_2
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_FK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_FK/char_boy_LeftLowerArm_FK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_FK/char_boy_LeftLowerArm_FK/char_boy_LeftLowerArm_2_FK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_FK/char_boy_LeftLowerArm_FK/char_boy_LeftLowerArm_2_FK/char_boy_LeftWrist_FK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_IK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_IK/char_boy_LeftLowerArm_IK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_IK/char_boy_LeftLowerArm_IK/char_boy_LeftLowerArm_2_IK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_IK/char_boy_LeftLowerArm_IK/char_boy_LeftLowerArm_2_IK/char_boy_LeftWrist_IK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm/char_boy_RightLowerArm
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm/char_boy_RightLowerArm/char_boy_RightLowerArm_2
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm/char_boy_RightLowerArm/char_boy_RightLowerArm_2/char_boy_RightWrist
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm/char_boy_RightLowerArm/char_boy_RightLowerArm_2/char_boy_RightWrist/char_boy_RightHand_1
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm/char_boy_RightLowerArm/char_boy_RightLowerArm_2/char_boy_RightWrist/char_boy_RightHand_1/char_boy_RightHand_2
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm/char_boy_RightLowerArm/char_boy_RightLowerArm_2/char_boy_RightWrist/char_boy_RightThumb_1
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm/char_boy_RightLowerArm/char_boy_RightLowerArm_2/char_boy_RightWrist/char_boy_RightThumb_1/char_boy_RightThumb_2
+    m_Weight: 1
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_FK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_FK/char_boy_RightLowerArm_FK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_FK/char_boy_RightLowerArm_FK/char_boy_RightLowerArm_2_FK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_FK/char_boy_RightLowerArm_FK/char_boy_RightLowerArm_2_FK/char_boy_RightWrist_FK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_IK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_IK/char_boy_RightLowerArm_IK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_IK/char_boy_RightLowerArm_IK/char_boy_RightLowerArm_2_IK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_IK/char_boy_RightLowerArm_IK/char_boy_RightLowerArm_2_IK/char_boy_RightWrist_IK
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Tail_1
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Tail_1/char_boy_Tail_2
+    m_Weight: 0
+  - m_Path: char_boy_Root/char_boy_Hips/char_boy_Tail_1/char_boy_Tail_2/char_boy_Tail_3
+    m_Weight: 0

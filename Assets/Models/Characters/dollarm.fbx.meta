@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: babe3cc5b6ce95046b9191514d10c316
+timeCreated: 1428967618
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: DollArm
+    100002: //RootNode
+    100004: elbow
+    100006: hand
+    100008: index
+    100010: index 1
+    100012: index_end
+    100014: index_mid
+    100016: index_tip
+    100018: middle
+    100020: middle 1
+    100022: middle_end
+    100024: middle_mid
+    100026: middle_tip
+    100028: nurbsCircle10
+    100030: nurbsCircle12
+    100032: nurbsCircle13
+    100034: nurbsCircle15
+    100036: nurbsCircle16
+    100038: nurbsCircle4
+    100040: nurbsCircle5
+    100042: nurbsCircle6
+    100044: nurbsCircle7
+    100046: nurbsCircle9
+    100048: pinky
+    100050: pinky 1
+    100052: pinky_end
+    100054: pinky_mid
+    100056: pinky_tip
+    100058: ring
+    100060: ring 1
+    100062: ring_end
+    100064: ring_mid
+    100066: ring_tip
+    100068: root
+    100070: thumb
+    100072: thumb 1
+    100074: thumb_end
+    100076: thumb_mid
+    100078: thumb_tip
+    100080: wrist
+    100082: wrist 1
+    400000: DollArm
+    400002: //RootNode
+    400004: elbow
+    400006: hand
+    400008: index
+    400010: index 1
+    400012: index_end
+    400014: index_mid
+    400016: index_tip
+    400018: middle
+    400020: middle 1
+    400022: middle_end
+    400024: middle_mid
+    400026: middle_tip
+    400028: nurbsCircle10
+    400030: nurbsCircle12
+    400032: nurbsCircle13
+    400034: nurbsCircle15
+    400036: nurbsCircle16
+    400038: nurbsCircle4
+    400040: nurbsCircle5
+    400042: nurbsCircle6
+    400044: nurbsCircle7
+    400046: nurbsCircle9
+    400048: pinky
+    400050: pinky 1
+    400052: pinky_end
+    400054: pinky_mid
+    400056: pinky_tip
+    400058: ring
+    400060: ring 1
+    400062: ring_end
+    400064: ring_mid
+    400066: ring_tip
+    400068: root
+    400070: thumb
+    400072: thumb 1
+    400074: thumb_end
+    400076: thumb_mid
+    400078: thumb_tip
+    400080: wrist
+    400082: wrist 1
+    4300000: DollArm
+    9500000: //RootNode
+    13700000: DollArm
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: root
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

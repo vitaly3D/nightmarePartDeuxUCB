@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 66fa3e8e41f18484aaf9e8f62a79cb47
+timeCreated: 1428957861
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: char_boy_Hat_1
+    100004: char_boy_Hat_2
+    100006: char_boy_Hat_3
+    100008: char_boy_Hat_4
+    100010: char_boy_Hat_5
+    100012: char_boy_Hat_End
+    100014: char_boy_Head
+    100016: char_boy_Hips
+    100018: char_boy_HipSway
+    100020: char_boy_LeftBrow_1
+    100022: char_boy_LeftBrow_1_End
+    100024: char_boy_LeftBrow_2
+    100026: char_boy_LeftBrow_2_End
+    100028: char_boy_LeftBrow_3
+    100030: char_boy_LeftBrow_3_End
+    100032: char_boy_LeftHand_1
+    100034: char_boy_LeftHand_2
+    100036: char_boy_LeftLeg
+    100038: char_boy_LeftLowerArm
+    100040: char_boy_LeftLowerArm_2
+    100042: char_boy_LeftLowerArm_2_FK
+    100044: char_boy_LeftLowerArm_2_IK
+    100046: char_boy_LeftLowerArm_FK
+    100048: char_boy_LeftLowerArm_IK
+    100050: char_boy_LeftShoulder
+    100052: char_boy_LeftThumb_1
+    100054: char_boy_LeftThumb_2
+    100056: char_boy_LeftToe
+    100058: char_boy_LeftUpperArm
+    100060: char_boy_LeftUpperArm_FK
+    100062: char_boy_LeftUpperArm_IK
+    100064: char_boy_LeftWrist
+    100066: char_boy_LeftWrist_FK
+    100068: char_boy_LeftWrist_IK
+    100070: char_boy_RightBrow_1
+    100072: char_boy_RightBrow_1_End
+    100074: char_boy_RightBrow_2
+    100076: char_boy_RightBrow_2_End
+    100078: char_boy_RightBrow_3
+    100080: char_boy_RightBrow_3_End
+    100082: char_boy_RightHand_1
+    100084: char_boy_RightHand_2
+    100086: char_boy_RightLeg
+    100088: char_boy_RightLowerArm
+    100090: char_boy_RightLowerArm_2
+    100092: char_boy_RightLowerArm_2_FK
+    100094: char_boy_RightLowerArm_2_IK
+    100096: char_boy_RightLowerArm_FK
+    100098: char_boy_RightLowerArm_IK
+    100100: char_boy_RightShoulder
+    100102: char_boy_RightThumb_1
+    100104: char_boy_RightThumb_2
+    100106: char_boy_RightToe
+    100108: char_boy_RightUpperArm
+    100110: char_boy_RightUpperArm_FK
+    100112: char_boy_RightUpperArm_IK
+    100114: char_boy_RightWrist
+    100116: char_boy_RightWrist_FK
+    100118: char_boy_RightWrist_IK
+    100120: char_boy_Root
+    100122: char_boy_Spine
+    100124: char_boy_Tail_1
+    100126: char_boy_Tail_2
+    100128: char_boy_Tail_3
+    400000: //RootNode
+    400002: char_boy_Hat_1
+    400004: char_boy_Hat_2
+    400006: char_boy_Hat_3
+    400008: char_boy_Hat_4
+    400010: char_boy_Hat_5
+    400012: char_boy_Hat_End
+    400014: char_boy_Head
+    400016: char_boy_Hips
+    400018: char_boy_HipSway
+    400020: char_boy_LeftBrow_1
+    400022: char_boy_LeftBrow_1_End
+    400024: char_boy_LeftBrow_2
+    400026: char_boy_LeftBrow_2_End
+    400028: char_boy_LeftBrow_3
+    400030: char_boy_LeftBrow_3_End
+    400032: char_boy_LeftHand_1
+    400034: char_boy_LeftHand_2
+    400036: char_boy_LeftLeg
+    400038: char_boy_LeftLowerArm
+    400040: char_boy_LeftLowerArm_2
+    400042: char_boy_LeftLowerArm_2_FK
+    400044: char_boy_LeftLowerArm_2_IK
+    400046: char_boy_LeftLowerArm_FK
+    400048: char_boy_LeftLowerArm_IK
+    400050: char_boy_LeftShoulder
+    400052: char_boy_LeftThumb_1
+    400054: char_boy_LeftThumb_2
+    400056: char_boy_LeftToe
+    400058: char_boy_LeftUpperArm
+    400060: char_boy_LeftUpperArm_FK
+    400062: char_boy_LeftUpperArm_IK
+    400064: char_boy_LeftWrist
+    400066: char_boy_LeftWrist_FK
+    400068: char_boy_LeftWrist_IK
+    400070: char_boy_RightBrow_1
+    400072: char_boy_RightBrow_1_End
+    400074: char_boy_RightBrow_2
+    400076: char_boy_RightBrow_2_End
+    400078: char_boy_RightBrow_3
+    400080: char_boy_RightBrow_3_End
+    400082: char_boy_RightHand_1
+    400084: char_boy_RightHand_2
+    400086: char_boy_RightLeg
+    400088: char_boy_RightLowerArm
+    400090: char_boy_RightLowerArm_2
+    400092: char_boy_RightLowerArm_2_FK
+    400094: char_boy_RightLowerArm_2_IK
+    400096: char_boy_RightLowerArm_FK
+    400098: char_boy_RightLowerArm_IK
+    400100: char_boy_RightShoulder
+    400102: char_boy_RightThumb_1
+    400104: char_boy_RightThumb_2
+    400106: char_boy_RightToe
+    400108: char_boy_RightUpperArm
+    400110: char_boy_RightUpperArm_FK
+    400112: char_boy_RightUpperArm_IK
+    400114: char_boy_RightWrist
+    400116: char_boy_RightWrist_FK
+    400118: char_boy_RightWrist_IK
+    400120: char_boy_Root
+    400122: char_boy_Spine
+    400124: char_boy_Tail_1
+    400126: char_boy_Tail_2
+    400128: char_boy_Tail_3
+    7400000: idle
+    7400002: idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: char_boy_Root
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_HipSway
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_HipSway/char_boy_LeftLeg
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_HipSway/char_boy_LeftLeg/char_boy_LeftToe
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_HipSway/char_boy_RightLeg
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_HipSway/char_boy_RightLeg/char_boy_RightToe
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_Hat_1
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_Hat_1/char_boy_Hat_2
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_Hat_1/char_boy_Hat_2/char_boy_Hat_3
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_Hat_1/char_boy_Hat_2/char_boy_Hat_3/char_boy_Hat_4
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_Hat_1/char_boy_Hat_2/char_boy_Hat_3/char_boy_Hat_4/char_boy_Hat_5
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_Hat_1/char_boy_Hat_2/char_boy_Hat_3/char_boy_Hat_4/char_boy_Hat_5/char_boy_Hat_End
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_LeftBrow_1
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_LeftBrow_1/char_boy_LeftBrow_1_End
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_LeftBrow_2
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_LeftBrow_2/char_boy_LeftBrow_2_End
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_LeftBrow_3
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_LeftBrow_3/char_boy_LeftBrow_3_End
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_RightBrow_1
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_RightBrow_1/char_boy_RightBrow_1_End
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_RightBrow_2
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_RightBrow_2/char_boy_RightBrow_2_End
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_RightBrow_3
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_Head/char_boy_RightBrow_3/char_boy_RightBrow_3_End
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm/char_boy_LeftLowerArm
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm/char_boy_LeftLowerArm/char_boy_LeftLowerArm_2
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm/char_boy_LeftLowerArm/char_boy_LeftLowerArm_2/char_boy_LeftWrist
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm/char_boy_LeftLowerArm/char_boy_LeftLowerArm_2/char_boy_LeftWrist/char_boy_LeftHand_1
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm/char_boy_LeftLowerArm/char_boy_LeftLowerArm_2/char_boy_LeftWrist/char_boy_LeftHand_1/char_boy_LeftHand_2
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm/char_boy_LeftLowerArm/char_boy_LeftLowerArm_2/char_boy_LeftWrist/char_boy_LeftThumb_1
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm/char_boy_LeftLowerArm/char_boy_LeftLowerArm_2/char_boy_LeftWrist/char_boy_LeftThumb_1/char_boy_LeftThumb_2
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_FK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_FK/char_boy_LeftLowerArm_FK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_FK/char_boy_LeftLowerArm_FK/char_boy_LeftLowerArm_2_FK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_FK/char_boy_LeftLowerArm_FK/char_boy_LeftLowerArm_2_FK/char_boy_LeftWrist_FK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_IK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_IK/char_boy_LeftLowerArm_IK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_IK/char_boy_LeftLowerArm_IK/char_boy_LeftLowerArm_2_IK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_LeftShoulder/char_boy_LeftUpperArm_IK/char_boy_LeftLowerArm_IK/char_boy_LeftLowerArm_2_IK/char_boy_LeftWrist_IK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm/char_boy_RightLowerArm
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm/char_boy_RightLowerArm/char_boy_RightLowerArm_2
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm/char_boy_RightLowerArm/char_boy_RightLowerArm_2/char_boy_RightWrist
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm/char_boy_RightLowerArm/char_boy_RightLowerArm_2/char_boy_RightWrist/char_boy_RightHand_1
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm/char_boy_RightLowerArm/char_boy_RightLowerArm_2/char_boy_RightWrist/char_boy_RightHand_1/char_boy_RightHand_2
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm/char_boy_RightLowerArm/char_boy_RightLowerArm_2/char_boy_RightWrist/char_boy_RightThumb_1
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm/char_boy_RightLowerArm/char_boy_RightLowerArm_2/char_boy_RightWrist/char_boy_RightThumb_1/char_boy_RightThumb_2
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_FK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_FK/char_boy_RightLowerArm_FK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_FK/char_boy_RightLowerArm_FK/char_boy_RightLowerArm_2_FK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_FK/char_boy_RightLowerArm_FK/char_boy_RightLowerArm_2_FK/char_boy_RightWrist_FK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_IK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_IK/char_boy_RightLowerArm_IK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_IK/char_boy_RightLowerArm_IK/char_boy_RightLowerArm_2_IK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Spine/char_boy_RightShoulder/char_boy_RightUpperArm_IK/char_boy_RightLowerArm_IK/char_boy_RightLowerArm_2_IK/char_boy_RightWrist_IK
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Tail_1
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Tail_1/char_boy_Tail_2
+        weight: 1
+      - path: char_boy_Root/char_boy_Hips/char_boy_Tail_1/char_boy_Tail_2/char_boy_Tail_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: char_boy_Root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 997c298bccdc8c54bbc63a729c4d21e0,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

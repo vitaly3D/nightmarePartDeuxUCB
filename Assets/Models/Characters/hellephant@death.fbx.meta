@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 6817fcad39feee64489cc587ea79a562
+timeCreated: 1427760619
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Hips
+    100004: LeftEar1
+    100006: LeftEar2
+    100008: LeftEarEnd
+    100010: LeftFoot
+    100012: LeftFootEnd
+    100014: LeftLeg
+    100016: RightEar1
+    100018: RightEar2
+    100020: RightEarEnd
+    100022: RightFoot
+    100024: RightFootEnd
+    100026: RightLeg
+    100028: Root
+    100030: Spine1
+    100032: Spine2
+    100034: SpineEnd
+    100036: Trunk1
+    100038: Trunk2
+    100040: Trunk3
+    100042: TrunkEnd
+    400000: //RootNode
+    400002: Hips
+    400004: LeftEar1
+    400006: LeftEar2
+    400008: LeftEarEnd
+    400010: LeftFoot
+    400012: LeftFootEnd
+    400014: LeftLeg
+    400016: RightEar1
+    400018: RightEar2
+    400020: RightEarEnd
+    400022: RightFoot
+    400024: RightFootEnd
+    400026: RightLeg
+    400028: Root
+    400030: Spine1
+    400032: Spine2
+    400034: SpineEnd
+    400036: Trunk1
+    400038: Trunk2
+    400040: Trunk3
+    400042: TrunkEnd
+    7400000: death
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: death
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .731428564
+        functionName: FadeAway
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Hips
+        weight: 1
+      - path: Root/Hips/LeftLeg
+        weight: 1
+      - path: Root/Hips/LeftLeg/LeftFoot
+        weight: 1
+      - path: Root/Hips/LeftLeg/LeftFoot/LeftFootEnd
+        weight: 1
+      - path: Root/Hips/RightLeg
+        weight: 1
+      - path: Root/Hips/RightLeg/RightFoot
+        weight: 1
+      - path: Root/Hips/RightLeg/RightFoot/RightFootEnd
+        weight: 1
+      - path: Root/Hips/Spine1
+        weight: 1
+      - path: Root/Hips/Spine1/Spine2
+        weight: 1
+      - path: Root/Hips/Spine1/Spine2/LeftEar1
+        weight: 1
+      - path: Root/Hips/Spine1/Spine2/LeftEar1/LeftEar2
+        weight: 1
+      - path: Root/Hips/Spine1/Spine2/LeftEar1/LeftEar2/LeftEarEnd
+        weight: 1
+      - path: Root/Hips/Spine1/Spine2/RightEar1
+        weight: 1
+      - path: Root/Hips/Spine1/Spine2/RightEar1/RightEar2
+        weight: 1
+      - path: Root/Hips/Spine1/Spine2/RightEar1/RightEar2/RightEarEnd
+        weight: 1
+      - path: Root/Hips/Spine1/Spine2/SpineEnd
+        weight: 1
+      - path: Root/Hips/Spine1/Trunk1
+        weight: 1
+      - path: Root/Hips/Spine1/Trunk1/Trunk2
+        weight: 1
+      - path: Root/Hips/Spine1/Trunk1/Trunk2/Trunk3
+        weight: 1
+      - path: Root/Hips/Spine1/Trunk1/Trunk2/Trunk3/TrunkEnd
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Root
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 1497a8d96130f564b88d31a28bcfb1ea,
+    type: 3}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
